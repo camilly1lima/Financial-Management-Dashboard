@@ -1,6 +1,6 @@
 # Financial-Management-Dashboard
 Dashboard interativo desenvolvido em Power BI para análise de fluxo de caixa e saúde financeira empresarial. O projeto foca em transformar dados brutos de extrato em insights acionáveis através de uma interface moderna e intuitiva.
-![Financial-Management-Dashboard](FinancialManagementDashboardimage,png)
+![Financial-Management-Dashboard](Financial Management Dashboard Image.png)
 
 - Diferenciais do Projeto
 Interface UI/UX de Alto Impacto: Design baseado em Glassmorphism com menu lateral de navegação e paleta de cores otimizada para legibilidade.
